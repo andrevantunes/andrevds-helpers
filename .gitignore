@@ -1,0 +1,7 @@
+node_modules
+.idea
+coverage
+yarn.lock
+yarn-error.log
+*.debug.js
+.wakatime-project
